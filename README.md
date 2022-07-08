@@ -4,7 +4,7 @@
 - 📚 Atualmente estudando Java e Machine Learning;  
 - 🔎 Procuro uma vaga como desenvolvedor;
 - 📫 Como chegar até mim **fdebiazi@hotmail.com**
-- ⚡ Fato curioso, sou formado e nunca trabalhei na área.  
+- ⚡ Fato curioso, apesar de formado e nunca trabalhei na área.  
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
