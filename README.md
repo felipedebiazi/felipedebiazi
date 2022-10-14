@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como comerciante/correspondente bancario;
 - 📚 Atualmente estudando Python, Machine Learning e Data Science;  
-- 🔎 Procurando primeira oportunidade como Analista de Dados;
+- 🔎 Procurando primeira oportunidade como Data Scientist;
 - 📫 Como chegar até mim **fdebiazi@hotmail.com**
 - ⚡ Fato curioso, apesar de formado e nunca trabalhei na área.  
 
