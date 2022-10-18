@@ -8,7 +8,7 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/felipe-debiazi-b6762b55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-debiazi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipedebiazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-debiazi" height="30" width="40" /></a>
 <a href="https://instagram.com/felipedebiazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.debiazi" height="30" width="40" /></a>
 </p>
 
