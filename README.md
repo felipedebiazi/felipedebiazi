@@ -4,7 +4,7 @@
 - 📚 Atualmente estudando Python, Machine Learning e Data Science;  
 - 🔎 Procurando primeira oportunidade como Data Scientist;
 - 📫 Como chegar até mim **fdebiazi@hotmail.com**
-- ⚡ Fato curioso, apesar de formado e nunca trabalhei na área.  
+- 🧙‍♂️ Curiosidade, sou fascinado o universo Tolkien. 
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
