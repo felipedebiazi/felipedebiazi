@@ -13,11 +13,9 @@
 </p>
 
 ##
- 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipedebiazi&hide=jupyter%20notebook&count_private=true&layout=compact&theme=dracula)  
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipedebiazi&layout=compact&theme=dracula)   
                   
-
-
 
 <!--
 **felipedebiazi/felipedebiazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
