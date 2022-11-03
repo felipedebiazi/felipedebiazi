@@ -1,9 +1,9 @@
 ## :coffee: Olá, aqui <strong>Felipe Debiazi!</strong>
 - 🔭 Hoje trabalho como gerente comercial/correspondente bancario;
-- 📚 Atualmente estudando Python, Machine Learning e Data Science;  
+- 📚 Atualmente estudando Python, Data Analytics e Data Science;  
 - 🔎 Procurando primeira oportunidade como Data Scientist;
 - 📫 Como chegar até mim **fdebiazi@hotmail.com**
-- 🧙‍♂️ Curiosidade, sou fascinado o universo Tolkien. 
+- 🧙‍♂️ Curiosidades, fã de games e do universo Tolkien. 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipedebiazi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipedebiazi&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipedebiazi&theme=nord_dark) |
 | :-: | :-: | :-: |
