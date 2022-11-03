@@ -1,5 +1,5 @@
 ## :coffee: Olá, aqui <strong>Felipe Debiazi!</strong>
-- 🔭 Hoje trabalho como comerciante/correspondente bancario;
+- 🔭 Hoje trabalho como gerente comercial/correspondente bancario;
 - 📚 Atualmente estudando Python, Machine Learning e Data Science;  
 - 🔎 Procurando primeira oportunidade como Data Scientist;
 - 📫 Como chegar até mim **fdebiazi@hotmail.com**
